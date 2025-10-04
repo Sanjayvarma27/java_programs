@@ -9,6 +9,7 @@ public class Count_Numbers {
 		int num= 123;
 		int count=0;
 		System.out.println("Again try this one");
+		System.out.println("try this one");
 		while(num>0) {
 		//num=num+	num%10;
 		num= num/10;
