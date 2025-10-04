@@ -10,6 +10,7 @@ public class Count_Numbers {
 		int count=0;
 		System.out.println("Again try this one");
 		System.out.println("try this one");
+		System.out.print("git edit");
 		while(num>0) {
 		//num=num+	num%10;
 		num= num/10;
