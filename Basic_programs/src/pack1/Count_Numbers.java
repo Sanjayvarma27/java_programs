@@ -15,5 +15,6 @@ public class Count_Numbers {
 		count++;
 		}
 		System.out.println(count);
-}
+System.out.println("count2");
+	}
 }
