@@ -7,11 +7,8 @@ public class Count_charcters {
 		String s = "sanjayvarma";
 		
 	Integer a= 	s.length();
-	/*
-	 * int value = 0; for(int i=0;i<a.SIZE-1;i++) {
-	 * 
-	 * value=value+ a.SIZE; }
-	 */
+
+
 System.out.println(a);
 	}
 }
