@@ -12,7 +12,7 @@ public class Find_missing_number_in_array {
 		sum1=sum1+a[i];
 	}
 	
-	System.out.println(sum1);
+	//System.out.println(sum1);
 	System.out.println("The missing number is "+ (total-sum1));
 	}
 	
